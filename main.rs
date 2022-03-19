@@ -5,5 +5,6 @@
 //
 // To run the code:
 //     $ cargo run
+use derive_builder::Builder;
 
 fn main() {}
